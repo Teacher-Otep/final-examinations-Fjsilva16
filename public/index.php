@@ -11,7 +11,7 @@
 </head>
 <body>
     <nav class="navbar">
-            <img src="images/logo.svg" id="logo" style="cursor:pointer;" onclick="showSection('home')">
+            <img src="images/logo_Silva.svg" id="logo" style="cursor:pointer;" onclick="showSection('home')">
             <button class="navbarbuttons" onclick="showSection('create')"> Create </button>
             <button class="navbarbuttons" onclick="showSection('read')"> Read </button>
             <button class="navbarbuttons" onclick="showSection('update')"> Update </button>
